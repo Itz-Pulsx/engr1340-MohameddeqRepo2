@@ -7,9 +7,8 @@ How to Multiply Two Integers:
 
 Example: 12 x 13
   12
-x 13
+x 10
 ----
-  36  (12 x 3)
 +120  (12 x 10, using a placeholder zero)
 ----
- 156  (The final product)
+ 120  (The final product)
